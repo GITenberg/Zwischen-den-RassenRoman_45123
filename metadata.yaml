@@ -14,6 +14,8 @@ creator:
     - http://en.wikipedia.org/wiki/Heinrich_Mann
     - http://de.wikipedia.org/wiki/Heinrich_Mann
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45123#Zwischen-den-RassenRoman
 gutenberg_issued: '2014-03-13'
 gutenberg_type: Text
 identifiers:
